@@ -1,0 +1,39 @@
+/*selector*/
+h1{
+    background-color: antiquewhite;
+
+
+}
+/*universal selector*/
+*{
+background-color: aqua;
+color:blueviolet
+}
+/*id selector*/
+#p1{background-color: antiquewhite;    
+font-size: large; font-style: italic;
+}
+/* Class Selector */
+.para { background-color: rgb(13, 71, 71);
+color: white;
+}
+/* descending selector*/
+div p{
+    background-color: aqua;
+    color: azure;
+    font-size: 22px;
+    
+}
+/* Child Selector*/
+div>h1{
+    background-color: aquamarine;
+    color: antiquewhite;
+    font-size:22px ;
+} 
+
+/* Group Selector */
+
+h1,h2,button{
+    background-color: rgb(0, 0, 0);
+    color: rgb(54, 132, 134) 
+}

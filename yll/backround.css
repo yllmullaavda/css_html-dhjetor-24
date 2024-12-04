@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+    background-image:url("winterr.jpg");
+    background-repeat: no-repeat;
+    /* background-position: 200px; */
+   background-size: cover;
+   background-attachment: fixed;
+}
+#div1{
+    border:1px solid black;
+    width: 400px;
+    height: 400px;
+    background-image: url(winter2.jpg);
+
+}
+#div2{
+    border:1px solid black;
+    width: 400px;
+    height: 400px;
+    background-image:url(winter2.jpg)
+    
+}
+#div3{
+    border:1px solid black;
+    width: 400px;
+    height: 400px;
+    background-image: url(winter2.jpg);
+    
+}
